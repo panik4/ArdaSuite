@@ -1,0 +1,12 @@
+[submodule "ArdaGen"]
+	path = ArdaGen
+	url = git@github.com:panik4/ArdaGen.git
+[submodule "FastWorldGen"]
+	path = FastWorldGen
+	url = git@github.com:panik4/FastWorldGen.git
+[submodule "FastWorldGenGUI"]
+	path = FastWorldGenGUI
+	url = git@github.com:panik4/FastWorldGenGUI.git
+[submodule "LibArdaGen"]
+	path = LibArdaGen
+	url = git@github.com:panik4/LibArdaGen.git
